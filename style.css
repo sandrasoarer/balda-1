@@ -37,3 +37,22 @@ color: #111;
 font: 15px Pomp;
 box-sizing: border-box;
 }
+
+tr, td { padding: 0 }
+
+.input {
+	height: 23px;
+	width: 170px;
+	padding: 5px 15px;
+	font-size: 14px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.game { text-align: center }
+
+.but {
+	height: 35px;
+	cursor: pointer;
+	padding: 0 10px;
+}
